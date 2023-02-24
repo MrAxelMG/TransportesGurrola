@@ -35,7 +35,7 @@
               <div class="col-12">
                   <nav class="main-nav">
                       <!-- ***** Logo Start ***** -->
-                      <a href="index.html" class="logo">
+                      <a href="index.php" class="logo">
                           <img src="assets/img/gurrola_1.png" alt="">
                       </a>
                       <!-- ***** Logo End ***** -->
@@ -76,7 +76,7 @@
                   <p>Te interesa llevar tus productos a otros estados de la republica, nosotros somos los indicados.</p>
                   <div class="buttons">
                     <div class="green-button">
-                      <a href="about-us.html">Descubre mas</a>
+                      <a href="about-us.php">Descubre mas</a>
                     </div>
                     <div class="orange-button">
                       <a href="contacto.php">Contactanos</a>
@@ -212,7 +212,7 @@
                 <p>Nuestra empresa se considera un socio logístico para el cliente, buscando siempre la máxima eficiencia y efectividad en todas las soluciones ofrecidas y los servicios prestados.</p>
                 <br/>
                 <div class="green-button">
-                  <a href="about-us.html">Descubre mas</a>
+                  <a href="about-us.php">Descubre mas</a>
                 </div>
             </div>
        

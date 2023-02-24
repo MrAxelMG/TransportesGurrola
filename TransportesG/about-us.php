@@ -40,15 +40,15 @@ https://templatemo.com/tm-574-mexant
               <div class="col-12">
                   <nav class="main-nav">
                       <!-- ***** Logo Start ***** -->
-                      <a href="index.html" class="logo">
+                      <a href="index.php" class="logo">
                         <img src="assets/img/gurrola_1.png" alt="">
                       </a>
                       <!-- ***** Logo End ***** -->
                       <!-- ***** Menu Start ***** -->
                       <ul class="nav">
-                        <li class="scroll-to-section"><a href="index.html" class="active">Inicio</a></li>
-                        <li class="scroll-to-section"><a href="index.html">Servicios</a></li>
-                        <li class="scroll-to-section"><a href="about-us.html">Nosotros</a></li>
+                        <li class="scroll-to-section"><a href="index.php" class="active">Inicio</a></li>
+                        <li class="scroll-to-section"><a href="index.php">Servicios</a></li>
+                        <li class="scroll-to-section"><a href="about-us.php">Nosotros</a></li>
                     
                     
                         <li><a href="contacto.php">Contactanos</a></li> 
